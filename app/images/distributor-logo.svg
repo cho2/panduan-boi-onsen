@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2982" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="96" width="96" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs2984">
+  <filter id="filter6279-2-4" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur6281-1-0" stdDeviation="0.8"/>
+  </filter>
+  <linearGradient id="linearGradient3973" y2="902.36" gradientUnits="userSpaceOnUse" x2="48" gradientTransform="matrix(1.1141 0 0 1.1141 -5.3513 -114.23)" y1="1052.4" x1="48">
+   <stop id="stop3702-89" style="stop-opacity:.64789" offset="0"/>
+   <stop id="stop3704-36" style="stop-color:#403f53;stop-opacity:0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata2987">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0 -956.36)">
+  <rect id="rect9283" style="filter:url(#filter6279-2-4)" transform="matrix(1.1141 0 0 1.1141 -5.2061 -114.35)" rx="5" ry="5" height="80" width="80" y="964.36" x="8"/>
+  <rect id="rect9285" rx="5.5706" ry="5.5706" height="89.13" width="89.13" y="960.07" x="3.7069"/>
+  <g id="g3989">
+   <path id="path3497" style="stroke:#fff;stroke-width:11.863;fill:none" d="m69.671 1004.3c0 14.959-12.127 27.086-27.086 27.086s-27.086-12.127-27.086-27.086 12.127-27.086 27.086-27.086 27.086 12.127 27.086 27.086z"/>
+   <path id="rect4269" style="stroke-linejoin:round;stroke:#f00;stroke-linecap:round;stroke-width:10.875;fill:#a00" d="m80.969 976.94h0.61572v55.466h-0.61572z"/>
+  </g>
+  <rect id="rect3971" style="opacity:.35628;fill:url(#linearGradient3973)" rx="5.5706" ry="5.5706" height="89.13" width="89.13" y="960.19" x="3.5617"/>
+ </g>
+</svg>
