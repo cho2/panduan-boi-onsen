@@ -4,15 +4,12 @@
 
 	<div class="topcoat-list topcoat-list--noborder">
 	  <ul class="topcoat-list__container" ng-controller="DesainCtr">
-	  	<!-- 
-		  <p ng-repeat="title in todos.posts">Unit {{ title.title }}</p>
-		  Unit {{ food.unit[0].title }}
-		  Unit {{ todo.posts[0].title }}
-	  	-->
-		<li class="topcoat-list__item topcoat-list__item--tappable" ng-repeat="todo in todos">
-			<span class="topcoat-list__item__line-height" ng-click="ons.navigator.pushPage('artikel.html',{category: "DesainCtr"})">{{ todo.posts[0].title }}</span>
-			<span class="list-item-action" ng-click="ons.navigator.pushPage('artikel.html')"><i class="fa fa-angle-right"></i></span>
-		</li>
+	  <div ng-repeat="app in apps">
+			<li class="topcoat-list__item topcoat-list__item--tappable" ng-repeat="post in app.posts">
+				<span class="topcoat-list__item__line-height" ng-click="ons.navigator.pushPage('artikel.html')">{{post.title}}</span>
+				<span class="list-item-action" ng-click="ons.navigator.pushPage('artikel.html')"><i class="fa fa-angle-right"></i></span>
+			</li>
+		</div>
 	  </ul>
 	</div>
 	
