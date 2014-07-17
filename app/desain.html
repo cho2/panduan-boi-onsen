@@ -3,24 +3,14 @@
 	<ons-scroller>
 
 	<div class="topcoat-list topcoat-list--noborder">
-	  <ul class="topcoat-list__container" ng-controller="ShowCtr">
+	  <ul class="topcoat-list__container" ng-controller="DesainCtr">
 	  	<!-- 
-	  	<ul>
-	    <li ng-repeat="todo in todos">
-		  	{{todo.status}} - <em>{{todo.pages}}</em>
-		  </li>
-		  //
-		  <p ng-repeat="title in food.unit">Unit {{ title.title }}</p>
 		  <p ng-repeat="title in todos.posts">Unit {{ title.title }}</p>
 		  Unit {{ food.unit[0].title }}
 		  Unit {{ todo.posts[0].title }}
-	  	</ul> -->
+	  	-->
 		<li class="topcoat-list__item topcoat-list__item--tappable" ng-repeat="todo in todos">
-			<span class="topcoat-list__item__line-height" ng-click="ons.navigator.pushPage('artikel.html')">{{ todo.posts[0].title }}</span>
-			<span class="list-item-action" ng-click="ons.navigator.pushPage('artikel.html')"><i class="fa fa-angle-right"></i></span>
-		</li>
-		<li class="topcoat-list__item topcoat-list__item--tappable">
-			<span class="topcoat-list__item__line-height" ng-click="ons.navigator.pushPage('artikel.html')">Artikel 2</span>
+			<span class="topcoat-list__item__line-height" ng-click="ons.navigator.pushPage('artikel.html',{category: "DesainCtr"})">{{ todo.posts[0].title }}</span>
 			<span class="list-item-action" ng-click="ons.navigator.pushPage('artikel.html')"><i class="fa fa-angle-right"></i></span>
 		</li>
 	  </ul>

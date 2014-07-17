@@ -1,5 +1,4 @@
-[
-{ 
+[{ 
 	"text":"learn angular",
 	"done":true },
 { 
@@ -10,5 +9,4 @@
 	"done":false },
 { 
 	"text":"another todo",
-	"done":true }
-]
+	"done":true }]

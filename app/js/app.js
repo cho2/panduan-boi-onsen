@@ -13,9 +13,9 @@ var myApp = angular.module('myApp', [
 
 // var PanduanCtr = angular.module('PanduanCtr', []);
 
-myApp.controller('ShowCtr', function($scope, $http) {
-  $http.get('multimedia.json')
-       .then(function(res){
-          $scope.todos = res.data;                
-        });
+myApp.controller('DesainCtr', function($scope, $http) {
+	$http.get('multimedia.json')
+	.then(function(res){
+		$scope.todos = res.data;
+	});
 });
