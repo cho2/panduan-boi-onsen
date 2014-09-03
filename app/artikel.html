@@ -1,5 +1,6 @@
-<ons-page class="left">
+<ons-page class="left" ng-onload="ons.navigator.getCurrentPage().options.category">
 	<ons-scroller>
+	{{category}}
 		<div style="padding: 10px">
 			<h3>Judul Artikel</h3>
 				<img src="images/panduan-icon.png">
@@ -17,5 +18,7 @@
 					<ons-button>
 						<i class="fa fa-google-plus"></i>
 					</ons-button>
+	}
+	}
 	</ons-scroller>
 </ons-page>

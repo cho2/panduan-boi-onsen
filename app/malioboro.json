@@ -1,0 +1,707 @@
+[{
+   "status":"ok",
+   "count":10,
+   "pages":1,
+   "category":{
+      "id":4,
+      "slug":"malioboro",
+      "title":"Malioboro",
+      "description":"",
+      "parent":0,
+      "post_count":10
+   },
+   "posts":[
+      {
+         "id":200,
+         "type":"post",
+         "slug":"maliboro-10",
+         "url":"http:\/\/www.malioboro.org\/?p=200",
+         "status":"publish",
+         "title":"Maliboro #10",
+         "title_plain":"Maliboro #10",
+         "content":"<p><strong>Sabtu, 7 Desember 2013, 13.00 WIB<\/strong><\/p>\n<p><strong>\u201cKopdar openSUSE Indonesia\u201d<\/strong><\/p>\n<p style=\"text-align: right;\">Tempat :<\/p>\n<p style=\"text-align: right;\"><strong>Teaterikal Fak Sains dan Teknologi<br \/>\n<\/strong><\/p>\n<p style=\"text-align: right;\">Universitas Islam Negeri Sunan Kalijaga Yogyakarta<\/p>\n<p style=\"text-align: right;\">Kampus Barat<\/p>\n<p style=\"text-align: right;\">Jl. Marsda Adisucipto Yogyakarta 55281<\/p>\n<p style=\"text-align: right;\"><strong>Kontak : Sujud (085647794997)<\/strong><\/p>\n<p style=\"text-align: right;\"><strong>Pendaftaran <a href=\"http:\/\/bit.ly\/Malioboro10\">bit.ly\/Malioboro10<\/a><\/strong><\/p>\n<p style=\"text-align: right;\">Pembayaran : Kampus UIN, Kamis 5 Desember, 15.30-17.00<\/p>\n<p style=\"text-align: right;\">Donasi Rp. 12.000,-<\/p>\n<p style=\"text-align: right;\">Peserta Terbatas 100 Orang<\/p>\n<p><strong>Acara :<\/strong><\/p>\n<p>Pendaftaran Ulang 13.00 \u2013 13.15<\/p>\n<p>Sambutan Pelaksana 13.15 \u2013 13.30<\/p>\n<p><strong>Obrolan Santai |Kisah TIM openSUSE Indonesia<\/strong> 13.30-15.00<br \/>\n<a href=\"http:\/\/twitter.com\/medwinz\">@medwinz<\/a> <a href=\"http:\/\/twitter.com\/yanarief\">@yanarief<\/a> <a href=\"http:\/\/twitter.com\/maspenyo\">@maspenyo<\/a><\/p>\n<p>Penutupan 15.30<\/p>\n<p>Organized by :<\/p>\n<p><a href=\"http:\/\/jogja.linux.or.id\/blog\/wp-content\/uploads\/2013\/01\/logo-kpli-jogja.png\"><img alt=\"logo-kpli-jogja\" src=\"http:\/\/jogja.linux.or.id\/blog\/wp-content\/uploads\/2013\/01\/logo-kpli-jogja-300x193.png\" width=\"144\" height=\"93\" \/><\/a><a href=\"http:\/\/jogja.linux.or.id\/blog\/wp-content\/uploads\/2013\/11\/ksl-uin.jpg\"><img alt=\"ksl uin\" src=\"http:\/\/jogja.linux.or.id\/blog\/wp-content\/uploads\/2013\/11\/ksl-uin.jpg\" width=\"86\" height=\"94\" \/><\/a><\/p>\n",
+         "excerpt":"<p>Sabtu, 7 Desember 2013, 13.00 WIB \u201cKopdar openSUSE Indonesia\u201d Tempat : Teaterikal Fak Sains dan Teknologi Universitas Islam Negeri Sunan Kalijaga Yogyakarta Kampus Barat Jl. Marsda Adisucipto Yogyakarta 55281 Kontak : Sujud (085647794997) Pendaftaran bit.ly\/Malioboro10 Pembayaran : Kampus UIN, Kamis 5 Desember, 15.30-17.00 Donasi Rp. 12.000,- Peserta Terbatas 100 Orang Acara : Pendaftaran Ulang 13.00 [&hellip;]<\/p>\n",
+         "date":"2013-12-02 13:35:27",
+         "modified":"2013-12-02 13:35:27",
+         "categories":[
+            {
+               "id":4,
+               "slug":"malioboro",
+               "title":"Malioboro",
+               "description":"",
+               "parent":0,
+               "post_count":10
+            }
+         ],
+         "tags":[
+
+         ],
+         "author":{
+            "id":1,
+            "slug":"jogjalinux",
+            "name":"Admin",
+            "first_name":"Admin",
+            "last_name":"Linux",
+            "nickname":"jogjalinux",
+            "url":"http:\/\/jogja.linux.or.id",
+            "description":"Kami adalah Komunitas Pengguna Linux Indonesia Yogyakarta"
+         },
+         "comments":[
+
+         ],
+         "attachments":[
+
+         ],
+         "comment_count":0,
+         "comment_status":"closed",
+         "custom_fields":{
+
+         }
+      },
+      {
+         "id":184,
+         "type":"post",
+         "slug":"malioboro-9",
+         "url":"http:\/\/www.malioboro.org\/?p=184",
+         "status":"publish",
+         "title":"Malioboro #9",
+         "title_plain":"Malioboro #9",
+         "content":"<div id=\"divRight\">\n<p><strong>Kamis, 13 Juni 2013, 18.30 WIB<br \/>\n<\/strong><\/p>\n<p><strong>&#8220;Nonton Film Bareng-Bareng&#8221;<br \/>\n<\/strong><\/p>\n<p style=\"text-align: right;\"><strong>Tempat :<\/strong><\/p>\n<p style=\"text-align: right;\"><a title=\"Kring-Krong Cafe\" href=\"http:\/\/www.kringkrong.com\/\" rel=\"nofollow\">Kring-Krong Cafe<\/a><\/p>\n<p style=\"text-align: right;\">Jl. Damai Jakal km 8 Yogyakarta\u00a0 <a title=\"Maps\" href=\"http:\/\/www.kringkrong.com\/petunjuk-arah.html\">Peta<\/a><\/p>\n<p style=\"text-align: right;\">Kontak : Koespradono (08562564396)<\/p>\n<p style=\"text-align: right;\">Pendaftaran <a title=\"Pendaftaran\" href=\"http:\/\/www.malioboro.org\/?page_id=28\" target=\"_blank\">klik disini<\/a><\/p>\n<p style=\"text-align: right;\">Pembayaran : Kampus UIN, Rabu 12 Juni, <strong>15.30-17.00<\/strong><\/p>\n<p style=\"text-align: right;\">Donasi Rp. 8.000,- (Sego Kucing, Cemilan, Es Teh, Free Parking, Doorprize)<\/p>\n<p style=\"text-align: right;\">Peserta Terbatas 40 Orang<\/p>\n<\/div>\n<p><strong>Daftar Film :<\/strong><\/p>\n<p><a title=\"Blender Fondation\" href=\"http:\/\/www.blender.org\/blenderorg\/\">Blender Fondation<\/a><\/p>\n<p><strong>Acara :<\/strong><\/p>\n<p>Pendaftaran Ulang <strong>18.30 &#8211; 19.00<\/strong><\/p>\n<p>Cuap Estu Fardani (<a href=\"http:\/\/twitter.com\/tuanpembual\" target=\"_blank\">@tuanpembual<\/a>, Ketua KPLI Jogja) <strong>19.00 &#8211; 19.05<\/strong><\/p>\n<p>Pemutaran Film <strong>19.05 &#8211; 19.45<\/strong><\/p>\n<p>Obrolan Santai<\/p>\n<p>Penutupan <strong>21.00<\/strong><strong><br \/>\n<\/strong><\/p>\n<hr \/>\n",
+         "excerpt":"<p>Kamis, 13 Juni 2013, 18.30 WIB &#8220;Nonton Film Bareng-Bareng&#8221; Tempat : Kring-Krong Cafe Jl. Damai Jakal km 8 Yogyakarta\u00a0 Peta Kontak : Koespradono (08562564396) Pendaftaran klik disini Pembayaran : Kampus UIN, Rabu 12 Juni, 15.30-17.00 Donasi Rp. 8.000,- (Sego Kucing, Cemilan, Es Teh, Free Parking, Doorprize) Peserta Terbatas 40 Orang Daftar Film : Blender Fondation [&hellip;]<\/p>\n",
+         "date":"2013-05-28 23:24:30",
+         "modified":"2013-05-29 10:15:46",
+         "categories":[
+            {
+               "id":4,
+               "slug":"malioboro",
+               "title":"Malioboro",
+               "description":"",
+               "parent":0,
+               "post_count":10
+            }
+         ],
+         "tags":[
+
+         ],
+         "author":{
+            "id":1,
+            "slug":"jogjalinux",
+            "name":"Admin",
+            "first_name":"Admin",
+            "last_name":"Linux",
+            "nickname":"jogjalinux",
+            "url":"http:\/\/jogja.linux.or.id",
+            "description":"Kami adalah Komunitas Pengguna Linux Indonesia Yogyakarta"
+         },
+         "comments":[
+
+         ],
+         "attachments":[
+
+         ],
+         "comment_count":0,
+         "comment_status":"closed",
+         "custom_fields":{
+
+         }
+      },
+      {
+         "id":160,
+         "type":"post",
+         "slug":"malioboro-8",
+         "url":"http:\/\/www.malioboro.org\/?p=160",
+         "status":"publish",
+         "title":"Malioboro #8",
+         "title_plain":"Malioboro #8",
+         "content":"<div id=\"divRight\">\n<p><strong>Sabtu, 23 Maret 2013, 8.00 WIB<br \/>\n<\/strong><\/p>\n<p><strong><strong>OpenSUSE<\/strong> Release Party<br \/>\n<\/strong><\/p>\n<p style=\"text-align: right;\"><strong>Tempat :<\/strong><\/p>\n<p style=\"text-align: right;\"><a href=\"http:\/\/www.ukrimuniversity.ac.id\/\" rel=\"nofollow\">Universitas Kristen Immanuel<\/a>, Gedung AMG<\/p>\n<p style=\"text-align: right;\">Jl.Solo km 11.1 Yogyakarta\u00a0 <a title=\"4sq\" href=\"https:\/\/foursquare.com\/v\/gedung-amg-univ-kristen-imanuel-ukrim\/4edc2f88d3e346be3680781d\">Peta<\/a><\/p>\n<p style=\"text-align: right;\">Kontak : Anton (085240167798) Estu (085643214898)<\/p>\n<p style=\"text-align: right;\"><a title=\"Poster Malioboro 8\" href=\"http:\/\/www.malioboro.org\/wp-content\/uploads\/2013\/03\/malioboro8mini.jpg\">Poster Digital<\/a><\/p>\n<p style=\"text-align: right;\">Pendaftaran sudah ditutup, terimakasih sudah mendaftar.<br \/>\nSampai ketemu dilokasi acara <img src=\"http:\/\/www.malioboro.org\/wp-includes\/images\/smilies\/icon_biggrin.gif\" alt=\":D\" class=\"wp-smiley\" \/> <\/p>\n<p style=\"text-align: right;\">Pembayaran : Stand KSL UKRIM, Jumat 22 Maret, <strong>9.00-11.00<\/strong><\/p>\n<p style=\"text-align: right;\">Donasi Pelajar Rp 12.000,-, Mahasiswa\/Umum Rp. 17.000,-<\/p>\n<p style=\"text-align: right;\">Peserta Terbatas 200 Orang<\/p>\n<\/div>\n<p><strong>Pembicara :<\/strong><\/p>\n<div id=\"attachment_162\" style=\"width: 260px\" class=\"wp-caption alignnone\"><a href=\"http:\/\/www.malioboro.org\/wp-content\/uploads\/2013\/03\/photo.jpg\"><img class=\"size-full wp-image-162  \" title=\"Yan Arief\" alt=\"Yan Arief\" src=\"http:\/\/www.malioboro.org\/wp-content\/uploads\/2013\/03\/photo.jpg\" width=\"250\" height=\"250\" \/><\/a><p class=\"wp-caption-text\">Yan Arief<\/p><\/div>\n<p>&nbsp;<\/p>\n<p style=\"text-align: right;\"><strong>Acara :<\/strong><\/p>\n<p style=\"text-align: right;\">Pendaftaran Ulang <strong>8.00 &#8211; 8.30<\/strong><\/p>\n<p style=\"text-align: right;\">Sambutan dari Panitia Pelaksana <strong>8.30 &#8211; 9.45<\/strong><\/p>\n<p style=\"text-align: right;\">Estu Fardani (<a href=\"http:\/\/twitter.com\/tuanpembual\" target=\"_blank\">@tuanpembual<\/a>, Ketua KPLI Jogja) Pembukaan <strong>8.45 &#8211; 9.00<\/strong><\/p>\n<p style=\"text-align: right;\">Yan Arief (<a title=\"Yan Arief\" href=\"http:\/\/twitter.com\/yanarief\">@yanarief<\/a>, OpenSUSE Indonesia) Pengenalan OpenSUSE 12.3 <strong>9.00 &#8211; 12.00<\/strong><\/p>\n<p style=\"text-align: right;\">Moderator : Dedy Hariyadi (<a title=\"Dedy Haryadi\" href=\"http:\/\/twitter.com\/milisdad\">@milisdad<\/a>)<\/p>\n<p style=\"text-align: right;\">Penutupan <strong>12.45 &#8211; 13.00<\/strong><\/p>\n<hr \/>\n",
+         "excerpt":"<p>Sabtu, 23 Maret 2013, 8.00 WIB OpenSUSE Release Party Tempat : Universitas Kristen Immanuel, Gedung AMG Jl.Solo km 11.1 Yogyakarta\u00a0 Peta Kontak : Anton (085240167798) Estu (085643214898) Poster Digital Pendaftaran sudah ditutup, terimakasih sudah mendaftar. Sampai ketemu dilokasi acara Pembayaran : Stand KSL UKRIM, Jumat 22 Maret, 9.00-11.00 Donasi Pelajar Rp 12.000,-, Mahasiswa\/Umum Rp. 17.000,- [&hellip;]<\/p>\n",
+         "date":"2013-03-05 09:51:10",
+         "modified":"2013-03-22 18:59:25",
+         "categories":[
+            {
+               "id":4,
+               "slug":"malioboro",
+               "title":"Malioboro",
+               "description":"",
+               "parent":0,
+               "post_count":10
+            }
+         ],
+         "tags":[
+
+         ],
+         "author":{
+            "id":1,
+            "slug":"jogjalinux",
+            "name":"Admin",
+            "first_name":"Admin",
+            "last_name":"Linux",
+            "nickname":"jogjalinux",
+            "url":"http:\/\/jogja.linux.or.id",
+            "description":"Kami adalah Komunitas Pengguna Linux Indonesia Yogyakarta"
+         },
+         "comments":[
+            {
+               "id":493,
+               "name":"bambang",
+               "url":"",
+               "date":"2013-03-06 19:17:15",
+               "content":"<p>Pengin ikut. Apa linuxnya dari nol?<\/p>\n",
+               "parent":0
+            },
+            {
+               "id":513,
+               "name":"Kevin",
+               "url":"http:\/\/epindigital.web.id\/",
+               "date":"2013-03-11 11:48:46",
+               "content":"<p>Sepertinya tidak mas, itu lebih ke pengenalan Distro OpenSUSE. Tapi jika ingin ikut, ya ikut saja mas, boleh bertanya hal hal yang dasar sekalipun dan pasti banyak yang bantu juga <img src=\"http:\/\/www.malioboro.org\/wp-includes\/images\/smilies\/icon_smile.gif\" alt=\":)\" class=\"wp-smiley\" \/> <\/p>\n<p>Salam Open Source<\/p>\n",
+               "parent":493
+            },
+            {
+               "id":535,
+               "name":"Sendy",
+               "url":"http:\/\/sendyyeah.wordpress.com",
+               "date":"2013-03-19 08:32:31",
+               "content":"<p>ada acara bagi-bagi installer openSUSE.? :p<\/p>\n",
+               "parent":0
+            },
+            {
+               "id":553,
+               "name":"Admin",
+               "url":"http:\/\/jogja.linux.or.id",
+               "date":"2013-03-22 18:58:16",
+               "content":"<p>ada, sebagai doorprize<\/p>\n",
+               "parent":535,
+               "author":{
+                  "id":1,
+                  "slug":"jogjalinux",
+                  "name":"Admin",
+                  "first_name":"Admin",
+                  "last_name":"Linux",
+                  "nickname":"jogjalinux",
+                  "url":"http:\/\/jogja.linux.or.id",
+                  "description":"Kami adalah Komunitas Pengguna Linux Indonesia Yogyakarta"
+               }
+            }
+         ],
+         "attachments":[
+            {
+               "id":162,
+               "url":"http:\/\/www.malioboro.org\/wp-content\/uploads\/2013\/03\/photo.jpg",
+               "slug":"photo",
+               "title":"Iyan Arief",
+               "description":"",
+               "caption":"",
+               "parent":160,
+               "mime_type":"image\/jpeg",
+               "images":{
+                  "full":{
+                     "url":"http:\/\/www.malioboro.org\/wp-content\/uploads\/2013\/03\/photo.jpg",
+                     "width":250,
+                     "height":250
+                  },
+                  "thumbnail":{
+                     "url":"http:\/\/www.malioboro.org\/wp-content\/uploads\/2013\/03\/photo-150x150.jpg",
+                     "width":150,
+                     "height":150
+                  },
+                  "medium":{
+                     "url":"http:\/\/www.malioboro.org\/wp-content\/uploads\/2013\/03\/photo.jpg",
+                     "width":250,
+                     "height":250
+                  },
+                  "large":{
+                     "url":"http:\/\/www.malioboro.org\/wp-content\/uploads\/2013\/03\/photo.jpg",
+                     "width":250,
+                     "height":250
+                  },
+                  "post-thumbnail":{
+                     "url":"http:\/\/www.malioboro.org\/wp-content\/uploads\/2013\/03\/photo.jpg",
+                     "width":250,
+                     "height":250
+                  }
+               }
+            }
+         ],
+         "comment_count":4,
+         "comment_status":"open",
+         "custom_fields":{
+
+         }
+      },
+      {
+         "id":124,
+         "type":"post",
+         "slug":"malioboro-7",
+         "url":"http:\/\/www.malioboro.org\/?p=124",
+         "status":"publish",
+         "title":"Malioboro #7",
+         "title_plain":"Malioboro #7",
+         "content":"<div id=\"divRight\">\n<p style=\"text-align: left; size: 20;\"><strong>Sabtu, 12 Januari 2013 -\u00a018:30 WIB<\/strong><\/p>\n<p><strong>Linux Enterprise<\/strong><\/p>\n<p style=\"text-align: right;\"><strong>Tempat :<\/strong><\/p>\n<p style=\"text-align: right;\">Goeboex Coffe<\/p>\n<p style=\"text-align: right;\">Jl. Perumnas\u00a0(Mundu, Catur Tunggal, Depok),\u00a0Sleman,\u00a0DI Yogyakarta\u00a0<a href=\"https:\/\/foursquare.com\/v\/goeboex-coffee--futsal\/4ca8712bae1eef3b2e543247\" target=\"_blank\">Peta<\/a><\/p>\n<p style=\"text-align: right;\">Kontak : Dono (087843209897)<\/p>\n<p style=\"text-align: right;\">Pendaftaran Online sudah memenuhi kuota.<\/p>\n<p style=\"text-align: right;\">Terimakasih buat yang sudah daftar, ditunggu kehadirannya di lokasi acara.<\/p>\n<p style=\"text-align: right;\">Donasi sebesar Rp 15.000,-<\/p>\n<p style=\"text-align: right;\">Peserta Max. 30<\/p>\n<\/div>\n<p style=\"text-align: left;\"><strong>Pembicara :<\/strong><\/p>\n<div id=\"attachment_136\" style=\"width: 297px\" class=\"wp-caption alignnone\"><a href=\"http:\/\/www.malioboro.org\/wp-content\/uploads\/2013\/01\/MasVavai.jpg\"><img class=\" wp-image-136 \" title=\" Masim &quot;Vavai&quot; Sugianto\" src=\"http:\/\/www.malioboro.org\/wp-content\/uploads\/2013\/01\/MasVavai.jpg\" alt=\" Masim &quot;Vavai&quot; Sugianto\" width=\"287\" height=\"383\" \/><\/a><p class=\"wp-caption-text\">Masim &#8220;Vavai&#8221; Sugianto<\/p><\/div>\n<p style=\"text-align: right;\"><strong>Acara :<\/strong><\/p>\n<p style=\"text-align: right;\">Pendaftaran <strong>18.30 &#8211; 19.00<\/strong><\/p>\n<p style=\"text-align: right;\">Estu Fardani (<a href=\"http:\/\/twitter.com\/tuanpembual\" target=\"_blank\">@tuanpembual<\/a>, Ketua KPLI Jogja) Pembukaan <strong>19.00 &#8211; 19.15<\/strong><\/p>\n<p style=\"text-align: right;\">Masim Sugianto (<a href=\"http:\/\/www.vavai.com\" target=\"_blank\">vavai.com<\/a>, Aktivis OpenSUSE Indonesia) Linux Enterprise\u00a0<strong>19.15 &#8211; 20.45<\/strong><\/p>\n<p style=\"text-align: right;\">Penutupan <strong>20.45 &#8211; 21.00<\/strong><\/p>\n<hr \/>\n",
+         "excerpt":"<p>Sabtu, 12 Januari 2013 -\u00a018:30 WIB Linux Enterprise Tempat : Goeboex Coffe Jl. Perumnas\u00a0(Mundu, Catur Tunggal, Depok),\u00a0Sleman,\u00a0DI Yogyakarta\u00a0Peta Kontak : Dono (087843209897) Pendaftaran Online sudah memenuhi kuota. Terimakasih buat yang sudah daftar, ditunggu kehadirannya di lokasi acara. Donasi sebesar Rp 15.000,- Peserta Max. 30 Pembicara : Acara : Pendaftaran 18.30 &#8211; 19.00 Estu Fardani (@tuanpembual, [&hellip;]<\/p>\n",
+         "date":"2013-01-09 08:29:25",
+         "modified":"2013-01-11 11:21:04",
+         "categories":[
+            {
+               "id":4,
+               "slug":"malioboro",
+               "title":"Malioboro",
+               "description":"",
+               "parent":0,
+               "post_count":10
+            }
+         ],
+         "tags":[
+
+         ],
+         "author":{
+            "id":1,
+            "slug":"jogjalinux",
+            "name":"Admin",
+            "first_name":"Admin",
+            "last_name":"Linux",
+            "nickname":"jogjalinux",
+            "url":"http:\/\/jogja.linux.or.id",
+            "description":"Kami adalah Komunitas Pengguna Linux Indonesia Yogyakarta"
+         },
+         "comments":[
+
+         ],
+         "attachments":[
+            {
+               "id":136,
+               "url":"http:\/\/www.malioboro.org\/wp-content\/uploads\/2013\/01\/MasVavai.jpg",
+               "slug":"masvavai",
+               "title":" Masim \"Vavai\" Sugianto",
+               "description":"",
+               "caption":"Masim \"Vavai\" Sugianto",
+               "parent":124,
+               "mime_type":"image\/jpeg",
+               "images":{
+                  "full":{
+                     "url":"http:\/\/www.malioboro.org\/wp-content\/uploads\/2013\/01\/MasVavai.jpg",
+                     "width":478,
+                     "height":638
+                  },
+                  "thumbnail":{
+                     "url":"http:\/\/www.malioboro.org\/wp-content\/uploads\/2013\/01\/MasVavai-150x150.jpg",
+                     "width":150,
+                     "height":150
+                  },
+                  "medium":{
+                     "url":"http:\/\/www.malioboro.org\/wp-content\/uploads\/2013\/01\/MasVavai-224x300.jpg",
+                     "width":224,
+                     "height":300
+                  },
+                  "large":{
+                     "url":"http:\/\/www.malioboro.org\/wp-content\/uploads\/2013\/01\/MasVavai.jpg",
+                     "width":478,
+                     "height":638
+                  },
+                  "post-thumbnail":{
+                     "url":"http:\/\/www.malioboro.org\/wp-content\/uploads\/2013\/01\/MasVavai-478x370.jpg",
+                     "width":478,
+                     "height":370
+                  }
+               }
+            }
+         ],
+         "comment_count":0,
+         "comment_status":"open",
+         "custom_fields":{
+
+         }
+      },
+      {
+         "id":109,
+         "type":"post",
+         "slug":"malioboro-6",
+         "url":"http:\/\/www.malioboro.org\/?p=109",
+         "status":"publish",
+         "title":"Malioboro #6",
+         "title_plain":"Malioboro #6",
+         "content":"<div id=\"divRight\">\n<p style=\"text-align: left; size: 20;\"><strong>Minggu, 21 Oktober 2012 -\u00a007:30 WIB<\/strong><\/p>\n<p><strong>Pengenalan aplikasi Desain Grafis GIMP<\/strong><\/p>\n<p style=\"text-align: right;\"><strong>Tempat :<\/strong><\/p>\n<p style=\"text-align: right;\">Gedung Student Center UMY<\/p>\n<p style=\"text-align: right;\">Ruang Seminar Lantai 3\u00a0<a href=\"https:\/\/maps.google.com\/?ie=UTF8&amp;ll=-7.810876,110.324267&amp;spn=0.003056,0.005241&amp;t=m&amp;z=18&amp;vpsrc=6&amp;iwloc=A&amp;q=Universitas+Muhammadiyah+Yogyakarta&amp;cid=8232899615081294004\" target=\"_blank\">Peta<\/a><\/p>\n<p style=\"text-align: right;\">Kontak :\u00a0Afief (088806175676)<\/p>\n<p style=\"text-align: right;\">Detail : <a href=\"http:\/\/www.malioboro.org\/wp-content\/uploads\/2012\/10\/desain6.png\" target=\"_blank\">Poster<\/a><\/p>\n<p style=\"text-align: right;\"><a href=\"http:\/\/w.blankon.in\/nM\">Pendaftaran Online<\/a>\u00a0dan untuk registrasi yaitu hari Jumat tanggal 19 Okt 2012 sebesar Rp 6.000,-<\/p>\n<p style=\"text-align: right;\">\u00a0di Lobby Teknik UMY\u00a0pukul 08.00-16.30 WIB<\/p>\n<\/div>\n<p style=\"text-align: left;\"><strong>Pembicara :<\/strong><\/p>\n<div id=\"attachment_20\" style=\"width: 216px\" class=\"wp-caption alignleft\"><a href=\"http:\/\/www.malioboro.org\/wp-content\/uploads\/2012\/10\/Kevin.jpg\"><img class=\"wp-image-110 \" title=\"Kevin\" src=\"http:\/\/www.malioboro.org\/wp-content\/uploads\/2012\/10\/Kevin.jpg\" alt=\"\" width=\"206\" height=\"206\" \/><\/a><p class=\"wp-caption-text\">Kevin<\/p><\/div>\n<p>&nbsp;<\/p>\n<p>&nbsp;<\/p>\n<p>&nbsp;<\/p>\n<p>&nbsp;<\/p>\n<p>&nbsp;<\/p>\n<p>&nbsp;<\/p>\n<p>&nbsp;<\/p>\n<p>&nbsp;<\/p>\n<p style=\"text-align: right;\"><strong>Acara :<\/strong><\/p>\n<p style=\"text-align: right;\">Pendaftaran <strong>07.30 &#8211; 08.30<\/strong><\/p>\n<p style=\"text-align: right;\">Estu Fardani (<a href=\"http:\/\/twitter.com\/tuanpembual\" target=\"_blank\">@tuanpembual<\/a>, Ketua KPLI Jogja) Pembukaan <strong>08.30 &#8211; 08.45<\/strong><\/p>\n<p style=\"text-align: right;\">Kevin (<a title=\"xvienz\" href=\"http:\/\/twitter.com\/xvienz\">@xvienz<\/a>, founder <a href=\"http:\/\/www.epindigital.web.id\/\" target=\"_blank\">Epin Digital<\/a>) Pengenalan GIMP\u00a0<strong>08.45 &#8211; 11.00<\/strong><\/p>\n<p style=\"text-align: right;\">Penutupan <strong>11.00 &#8211; 11.30<\/strong><\/p>\n<hr \/>\n",
+         "excerpt":"<p>Minggu, 21 Oktober 2012 -\u00a007:30 WIB Pengenalan aplikasi Desain Grafis GIMP Tempat : Gedung Student Center UMY Ruang Seminar Lantai 3\u00a0Peta Kontak :\u00a0Afief (088806175676) Detail : Poster Pendaftaran Online\u00a0dan untuk registrasi yaitu hari Jumat tanggal 19 Okt 2012 sebesar Rp 6.000,- \u00a0di Lobby Teknik UMY\u00a0pukul 08.00-16.30 WIB Pembicara : &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [&hellip;]<\/p>\n",
+         "date":"2012-10-13 10:03:00",
+         "modified":"2012-10-13 10:31:51",
+         "categories":[
+            {
+               "id":4,
+               "slug":"malioboro",
+               "title":"Malioboro",
+               "description":"",
+               "parent":0,
+               "post_count":10
+            }
+         ],
+         "tags":[
+
+         ],
+         "author":{
+            "id":1,
+            "slug":"jogjalinux",
+            "name":"Admin",
+            "first_name":"Admin",
+            "last_name":"Linux",
+            "nickname":"jogjalinux",
+            "url":"http:\/\/jogja.linux.or.id",
+            "description":"Kami adalah Komunitas Pengguna Linux Indonesia Yogyakarta"
+         },
+         "comments":[
+
+         ],
+         "attachments":[
+            {
+               "id":110,
+               "url":"http:\/\/www.malioboro.org\/wp-content\/uploads\/2012\/10\/Kevin.jpg",
+               "slug":"kevin",
+               "title":"Kevin",
+               "description":"",
+               "caption":"",
+               "parent":109,
+               "mime_type":"image\/jpeg",
+               "images":{
+                  "full":{
+                     "url":"http:\/\/www.malioboro.org\/wp-content\/uploads\/2012\/10\/Kevin.jpg",
+                     "width":382,
+                     "height":382
+                  },
+                  "thumbnail":{
+                     "url":"http:\/\/www.malioboro.org\/wp-content\/uploads\/2012\/10\/Kevin-150x150.jpg",
+                     "width":150,
+                     "height":150
+                  },
+                  "medium":{
+                     "url":"http:\/\/www.malioboro.org\/wp-content\/uploads\/2012\/10\/Kevin-300x300.jpg",
+                     "width":300,
+                     "height":300
+                  },
+                  "large":{
+                     "url":"http:\/\/www.malioboro.org\/wp-content\/uploads\/2012\/10\/Kevin.jpg",
+                     "width":382,
+                     "height":382
+                  },
+                  "post-thumbnail":{
+                     "url":"http:\/\/www.malioboro.org\/wp-content\/uploads\/2012\/10\/Kevin-382x370.jpg",
+                     "width":382,
+                     "height":370
+                  }
+               }
+            }
+         ],
+         "comment_count":0,
+         "comment_status":"open",
+         "custom_fields":{
+
+         }
+      },
+      {
+         "id":85,
+         "type":"post",
+         "slug":"malioboro-5",
+         "url":"http:\/\/www.malioboro.org\/?p=85",
+         "status":"publish",
+         "title":"Malioboro #5",
+         "title_plain":"Malioboro #5",
+         "content":"<div id=\"divRight\">\n<p style=\"text-align: left; size: 20;\"><strong>Jumat, 19 Maret 2012 -\u00a019.00 WIB<\/strong><\/p>\n<p><strong>Desain Grafis full Open Source<\/strong><\/p>\n<p>Tempat :<\/p>\n<p style=\"text-align: right;\">Moriko Cafe<\/p>\n<p style=\"text-align: right;\">Timur Universitas Meercubuana (dekat jembatan merah) <a href=\"https:\/\/maps.google.com\/?source=friendlink&amp;q=-7.763285,110.395448(Jalan+Jembatan+Merah)\" target=\"_blank\">Peta<\/a><\/p>\n<p style=\"text-align: right;\">Kontak : Dono (081915546033)<\/p>\n<p style=\"text-align: right;\">Detail : <a href=\"http:\/\/www.malioboro.org\/wp-content\/uploads\/2012\/06\/poster-malioboro-5.png\" target=\"_blank\">Poster<\/a><\/p>\n<\/div>\n<p style=\"text-align: left;\">Pembicara :<\/p>\n<div id=\"attachment_20\" style=\"width: 170px\" class=\"wp-caption alignnone\"><img class=\" wp-image-20  \" title=\"radith\" src=\"https:\/\/fbcdn-sphotos-a.akamaihd.net\/hphotos-ak-ash4\/378552_2107191681806_1703291497_n.jpg\" alt=\"\" width=\"160\" height=\"160\" \/><p class=\"wp-caption-text\">Radit Putut<\/p><\/div>\n<p>Acara :<\/p>\n<p style=\"text-align: right;\">Pendaftaran <strong>18.30 &#8211; 19.00<\/strong><\/p>\n<p style=\"text-align: right;\">Estu Fardani (<a href=\"http:\/\/twitter.com\/tuanpembual\" target=\"_blank\">@tuanpembual<\/a>, Ketua KPLI Jogja) Pembukaan <strong>19.00 &#8211; 19.15<\/strong><\/p>\n<p style=\"text-align: right;\">Radit Putut (<a href=\"http:\/\/twitter.com\/radithtux\" target=\"_blank\">@radithtux<\/a>, Artistik IGOS Nusantara) Pengenalan Inkscape <strong>19.15 &#8211; 21.00<\/strong><\/p>\n<p style=\"text-align: right;\">Penutupan <strong>21.00 &#8211; 21.20<\/strong><\/p>\n<hr \/>\n",
+         "excerpt":"<p>Jumat, 19 Maret 2012 -\u00a019.00 WIB Desain Grafis full Open Source Tempat : Moriko Cafe Timur Universitas Meercubuana (dekat jembatan merah) Peta Kontak : Dono (081915546033) Detail : Poster Pembicara : Acara : Pendaftaran 18.30 &#8211; 19.00 Estu Fardani (@tuanpembual, Ketua KPLI Jogja) Pembukaan 19.00 &#8211; 19.15 Radit Putut (@radithtux, Artistik IGOS Nusantara) Pengenalan Inkscape [&hellip;]<\/p>\n",
+         "date":"2012-06-10 07:28:53",
+         "modified":"2012-06-25 08:30:35",
+         "categories":[
+            {
+               "id":4,
+               "slug":"malioboro",
+               "title":"Malioboro",
+               "description":"",
+               "parent":0,
+               "post_count":10
+            }
+         ],
+         "tags":[
+
+         ],
+         "author":{
+            "id":1,
+            "slug":"jogjalinux",
+            "name":"Admin",
+            "first_name":"Admin",
+            "last_name":"Linux",
+            "nickname":"jogjalinux",
+            "url":"http:\/\/jogja.linux.or.id",
+            "description":"Kami adalah Komunitas Pengguna Linux Indonesia Yogyakarta"
+         },
+         "comments":[
+
+         ],
+         "attachments":[
+
+         ],
+         "comment_count":0,
+         "comment_status":"open",
+         "custom_fields":{
+
+         }
+      },
+      {
+         "id":76,
+         "type":"post",
+         "slug":"malioboro-4",
+         "url":"http:\/\/www.malioboro.org\/?p=76",
+         "status":"publish",
+         "title":"Malioboro #4",
+         "title_plain":"Malioboro #4",
+         "content":"<div id=\"divRight\">\n<p style=\"text-align: left; size: 20;\"><strong>Kamis, 24 November 2011 -\u00a015.00 WIB<\/strong><\/p>\n<p><strong>Debian and Free Sofware Eco System<\/strong><\/p>\n<p>Tempat :<\/p>\n<p style=\"text-align: right;\">Universitas Sanata Dharma<\/p>\n<p style=\"text-align: right;\">Kampus III Paingan, <a href=\"http:\/\/wikimapia.org\/11948474\/Kampus-III-Universitas-Sanata-Dharma\" target=\"_blank\">Peta<\/a><\/p>\n<p style=\"text-align: right;\">Kontak : Kevin (083824112208)<\/p>\n<p style=\"text-align: right;\">Detail : <a href=\"http:\/\/www.malioboro.org\/wp-content\/uploads\/2012\/06\/poster-malioboro-4.png\" target=\"_blank\">Poster<\/a><\/p>\n<\/div>\n<p style=\"text-align: left;\">Pembicara :<\/p>\n<div id=\"attachment_20\" style=\"width: 170px\" class=\"wp-caption alignnone\"><img class=\" wp-image-20  \" title=\"jonas\" src=\"http:\/\/photos-g.ak.fbcdn.net\/hphotos-ak-ash3\/22346_100619303300986_4017513_a.jpg\" alt=\"\" width=\"160\" height=\"160\" \/><p class=\"wp-caption-text\">Jonas Smedegaard<\/p><\/div>\n<p>Acara :<\/p>\n<p style=\"text-align: right;\">Pendaftaran <strong>15.00 &#8211; 15.30<\/strong><\/p>\n<p style=\"text-align: right;\">Pembukaan <strong>15.30 &#8211; 09.45<\/strong><\/p>\n<p style=\"text-align: right;\">Acara Inti <strong>15.45 &#8211; 16.45<\/strong><\/p>\n<p style=\"text-align: right;\">Tanya Jawab <strong>16.45 &#8211; 17.30<\/strong><\/p>\n<p style=\"text-align: right;\">Hiburan, Game dan Snack <strong>17.30 &#8211; 18.30<\/strong><\/p>\n<p style=\"text-align: right;\">Doorprize <strong>18.30 &#8211; 19.00<\/strong><\/p>\n<p style=\"text-align: right;\">Penutupan <strong>19.00 &#8211; 19.20<\/strong><\/p>\n<hr\/>\n",
+         "excerpt":"<p>Kamis, 24 November 2011 -\u00a015.00 WIB Debian and Free Sofware Eco System Tempat : Universitas Sanata Dharma Kampus III Paingan, Peta Kontak : Kevin (083824112208) Detail : Poster Pembicara : Acara : Pendaftaran 15.00 &#8211; 15.30 Pembukaan 15.30 &#8211; 09.45 Acara Inti 15.45 &#8211; 16.45 Tanya Jawab 16.45 &#8211; 17.30 Hiburan, Game dan Snack 17.30 [&hellip;]<\/p>\n",
+         "date":"2011-11-12 19:03:37",
+         "modified":"2012-06-25 08:24:53",
+         "categories":[
+            {
+               "id":4,
+               "slug":"malioboro",
+               "title":"Malioboro",
+               "description":"",
+               "parent":0,
+               "post_count":10
+            }
+         ],
+         "tags":[
+
+         ],
+         "author":{
+            "id":1,
+            "slug":"jogjalinux",
+            "name":"Admin",
+            "first_name":"Admin",
+            "last_name":"Linux",
+            "nickname":"jogjalinux",
+            "url":"http:\/\/jogja.linux.or.id",
+            "description":"Kami adalah Komunitas Pengguna Linux Indonesia Yogyakarta"
+         },
+         "comments":[
+
+         ],
+         "attachments":[
+
+         ],
+         "comment_count":0,
+         "comment_status":"open",
+         "custom_fields":{
+
+         }
+      },
+      {
+         "id":67,
+         "type":"post",
+         "slug":"malioboro-3",
+         "url":"http:\/\/www.malioboro.org\/?p=67",
+         "status":"publish",
+         "title":"Malioboro #3",
+         "title_plain":"Malioboro #3",
+         "content":"<div id=\"divRight\">\n<p style=\"text-align: left; size: 20;\"><strong>Sabtu, 12 Maret 2011 -\u00a009.00 WIB<\/strong><\/p>\n<p>Tempat :<\/p>\n<p style=\"text-align: right;\">IST Akprind Ruang S4<\/p>\n<p style=\"text-align: right;\">Jln. Kalisahak 28 Yogyakarta (belakang empire XXI)<\/p>\n<p style=\"text-align: right;\">Kontak : Sandy Fauzan (+62 852 2469 1301)<\/p>\n<\/div>\n<p style=\"text-align: left;\">Pembicara :<\/p>\n<div id=\"attachment_23\" style=\"width: 170px\" class=\"wp-caption alignnone\"><img class=\"size-full wp-image-23 \" title=\"donny\" src=\"http:\/\/www.malioboro.org\/wp-content\/uploads\/2011\/02\/Ignatius-Dony.jpg\" alt=\"\" width=\"160\" height=\"160\" \/><p class=\"wp-caption-text\">Ignatius Dony<\/p><\/div>\n<div id=\"attachment_24\" style=\"width: 170px\" class=\"wp-caption alignnone\"><img class=\"size-full wp-image-24 \" title=\"cahyo\" src=\"http:\/\/www.malioboro.org\/wp-content\/uploads\/2011\/03\/Cahyo-Putra.jpg\" alt=\"\" width=\"160\" height=\"160\" \/><p class=\"wp-caption-text\">Cahyo Putra<\/p><\/div>\n<div id=\"attachment_20\" style=\"width: 170px\" class=\"wp-caption alignnone\"><img class=\" wp-image-20  \" title=\"dewi\" src=\"http:\/\/www.malioboro.org\/wp-content\/uploads\/2011\/02\/Dewi-Rossa.jpg\" alt=\"\" width=\"160\" height=\"160\" \/><p class=\"wp-caption-text\">Dewi Rossa<\/p><\/div>\n<p>Acara :<\/p>\n<p style=\"text-align: right;\">Pendaftaran <strong>09.00 &#8211; 09.30<\/strong><\/p>\n<p style=\"text-align: right;\">Pembukaan <strong>09.30 &#8211; 09.40<\/strong><\/p>\n<p style=\"text-align: right;\">Cahyo Putra (<a href=\"#\">@cahyo<\/a>, Narayana Band) <strong>09.40 &#8211; 10.00<\/strong><\/p>\n<p style=\"text-align: right;\">Dewi Rossa (<a href=\"http:\/\/twitter.com\/dewirossa\">@dewirossa<\/a>, Pengguna Linux) <strong>10.00 &#8211; 10.20<\/strong><\/p>\n<p style=\"text-align: right;\">Ongkang\u00b2 dan Accoustic Live Music (Break) <strong>10.20 &#8211; 10.40<\/strong><\/p>\n<p style=\"text-align: right;\">Ignatius Dony (<a href=\"#\">@donyignaz<\/a>, IndoBlender, Produser Dagelan Bakoel Project) <strong>10.40 &#8211; 11.00<\/strong><\/p>\n<p style=\"text-align: right;\">Tanya Jawab <strong>11.00 &#8211; 11.20<\/strong><\/p>\n<p style=\"text-align: right;\">Penutupan <strong>11.20 &#8211; 11.50<\/strong><\/p>\n<div id=\"divClear\"><\/div>\n<hr \/>\n",
+         "excerpt":"<p>Sabtu, 12 Maret 2011 -\u00a009.00 WIB Tempat : IST Akprind Ruang S4 Jln. Kalisahak 28 Yogyakarta (belakang empire XXI) Kontak : Sandy Fauzan (+62 852 2469 1301) Pembicara : Acara : Pendaftaran 09.00 &#8211; 09.30 Pembukaan 09.30 &#8211; 09.40 Cahyo Putra (@cahyo, Narayana Band) 09.40 &#8211; 10.00 Dewi Rossa (@dewirossa, Pengguna Linux) 10.00 &#8211; 10.20 [&hellip;]<\/p>\n",
+         "date":"2011-02-19 08:34:05",
+         "modified":"2012-06-25 08:07:48",
+         "categories":[
+            {
+               "id":4,
+               "slug":"malioboro",
+               "title":"Malioboro",
+               "description":"",
+               "parent":0,
+               "post_count":10
+            }
+         ],
+         "tags":[
+
+         ],
+         "author":{
+            "id":1,
+            "slug":"jogjalinux",
+            "name":"Admin",
+            "first_name":"Admin",
+            "last_name":"Linux",
+            "nickname":"jogjalinux",
+            "url":"http:\/\/jogja.linux.or.id",
+            "description":"Kami adalah Komunitas Pengguna Linux Indonesia Yogyakarta"
+         },
+         "comments":[
+
+         ],
+         "attachments":[
+
+         ],
+         "comment_count":0,
+         "comment_status":"open",
+         "custom_fields":{
+
+         }
+      },
+      {
+         "id":60,
+         "type":"post",
+         "slug":"malioboro-2",
+         "url":"http:\/\/www.malioboro.org\/?p=60",
+         "status":"publish",
+         "title":"Malioboro #2",
+         "title_plain":"Malioboro #2",
+         "content":"<div id=\"divRight\">\n<p style=\"text-align: left; size: 20;\"><strong>Sabtu, 15 Januari 2011 &#8211; 09.00 WIB<\/strong><\/p>\n<p>Tempat :<\/p>\n<p style=\"text-align: right;\">Ruang Teatrikal\u00a0Fakultas Saintek UIN Sunan Kalijaga (<a href=\"http:\/\/maps.google.com\/maps\/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=202082373411711942399.0004992ab9d08e88f0af9&amp;ll=-7.783643,110.395582&amp;spn=0.003125,0.00912&amp;z=16&amp;output=embed\" target=\"_blank\">Lihat Peta<\/a>)<\/p>\n<p style=\"text-align: right;\">Jl. Marsda Adisucipto Yogyakarta<\/p>\n<p style=\"text-align: right;\">Kontak : Sandy Fauzan (+62 852 2469 1301)<\/p>\n<\/div>\n<p style=\"text-align: left;\">Pembicara :<\/p>\n<div id=\"attachment_23\" style=\"width: 170px\" class=\"wp-caption alignnone\"><img class=\"size-full wp-image-23 \" title=\"willy\" src=\"http:\/\/www.malioboro.org\/wp-content\/uploads\/2011\/01\/willysr.jpg\" alt=\"\" width=\"160\" height=\"160\" \/><p class=\"wp-caption-text\">Willy Sudiarto Rahardjo<\/p><\/div>\n<div id=\"attachment_24\" style=\"width: 170px\" class=\"wp-caption alignnone\"><img class=\"size-full wp-image-24 \" title=\"nila\" src=\"http:\/\/www.malioboro.org\/wp-content\/uploads\/2011\/01\/nila_feby1.jpg\" alt=\"\" width=\"160\" height=\"160\" \/><p class=\"wp-caption-text\">Nila Feby<\/p><\/div>\n<div id=\"attachment_20\" style=\"width: 170px\" class=\"wp-caption alignnone\"><img class=\" wp-image-20  \" title=\"andrew\" src=\"http:\/\/www.malioboro.org\/wp-content\/uploads\/2011\/01\/andrew.jpg\" alt=\"\" width=\"160\" height=\"160\" \/><p class=\"wp-caption-text\">Sekar Retno Naruki<\/p><\/div>\n<div id=\"attachment_21\" style=\"width: 170px\" class=\"wp-caption alignleft\"><img class=\"size-full wp-image-21 \" title=\"yodi\" src=\"http:\/\/www.malioboro.org\/wp-content\/uploads\/2011\/01\/yodi.jpg\" alt=\"\" width=\"160\" height=\"160\" \/><p class=\"wp-caption-text\">Yodi Aditya<\/p><\/div>\n<p>&nbsp;<\/p>\n<p>&nbsp;<\/p>\n<p>&nbsp;<\/p>\n<p>&nbsp;<\/p>\n<p>&nbsp;<\/p>\n<p>&nbsp;<\/p>\n<p>&nbsp;<\/p>\n<p>Acara :<\/p>\n<p style=\"text-align: right;\">Pendaftaran <strong>09.00 &#8211; 09.30<\/strong><\/p>\n<p style=\"text-align: right;\">Pembukaan <strong>09.30 &#8211; 09.40<\/strong><\/p>\n<p style=\"text-align: right;\">Willy Sudiarto Rahardjo (<a href=\"http:\/\/twitter.com\/willysr2804\">@willysr<\/a>, Dosen, Administrator forum.linux.or.id) <strong>09.40 &#8211; 10.00<\/strong><\/p>\n<p style=\"text-align: right;\">Nila Feby (<a href=\"http:\/\/id.linkedin.com\/pub\/nila-feby-puspitasari\/25\/72b\/a5b\">@nila<\/a>, Dosen, Pembina Foss Amikom) <strong>10.00 &#8211; 10.20<\/strong><\/p>\n<p style=\"text-align: right;\">Ongkang\u00b2 dan Accoustic Live Music (Break) <strong>10.20 &#8211; 10.40<\/strong><\/p>\n<p style=\"text-align: right;\">Yodi Aditya (<a href=\"http:\/\/twitter.com\/yodiaditya\">@yodiaditya<\/a>, Freelance, Web Developer) <strong>10.40 &#8211; 11.00<\/strong><\/p>\n<p style=\"text-align: right;\">Andrew Nugroho (<a href=\"http:\/\/twitter.com\/andrewmovic\">@andrewmovic<\/a>, Dosen, Web Designer) <strong>11.00 &#8211; 11.20<\/strong><\/p>\n<p style=\"text-align: right;\">Tanya Jawab <strong>11.20 &#8211; 11.50<\/strong><\/p>\n<p style=\"text-align: right;\">Penutupan <strong>11.50 &#8211; 12.00<\/strong><\/p>\n<div id=\"divClear\"><\/div>\n<hr \/>\n",
+         "excerpt":"<p>Sabtu, 15 Januari 2011 &#8211; 09.00 WIB Tempat : Ruang Teatrikal\u00a0Fakultas Saintek UIN Sunan Kalijaga (Lihat Peta) Jl. Marsda Adisucipto Yogyakarta Kontak : Sandy Fauzan (+62 852 2469 1301) Pembicara : &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Acara : Pendaftaran 09.00 &#8211; 09.30 Pembukaan 09.30 &#8211; 09.40 Willy Sudiarto Rahardjo (@willysr, Dosen, Administrator forum.linux.or.id) [&hellip;]<\/p>\n",
+         "date":"2011-01-04 02:42:43",
+         "modified":"2012-06-25 08:07:40",
+         "categories":[
+            {
+               "id":4,
+               "slug":"malioboro",
+               "title":"Malioboro",
+               "description":"",
+               "parent":0,
+               "post_count":10
+            }
+         ],
+         "tags":[
+
+         ],
+         "author":{
+            "id":1,
+            "slug":"jogjalinux",
+            "name":"Admin",
+            "first_name":"Admin",
+            "last_name":"Linux",
+            "nickname":"jogjalinux",
+            "url":"http:\/\/jogja.linux.or.id",
+            "description":"Kami adalah Komunitas Pengguna Linux Indonesia Yogyakarta"
+         },
+         "comments":[
+
+         ],
+         "attachments":[
+
+         ],
+         "comment_count":0,
+         "comment_status":"open",
+         "custom_fields":{
+
+         }
+      },
+      {
+         "id":32,
+         "type":"post",
+         "slug":"malioboro-1",
+         "url":"http:\/\/www.malioboro.org\/?p=32",
+         "status":"publish",
+         "title":"Malioboro #1",
+         "title_plain":"Malioboro #1",
+         "content":"<div id=\"divRight\">\n<p style=\"text-align: left; size: 20;\"><strong>Jum&#8217;at, 10 Desember 2010 &#8211; 18.30 WIB<\/strong><\/p>\n<p>Tempat :<\/p>\n<p style=\"text-align: right;\">AngringQ Cafe (<a href=\"http:\/\/wikimapia.org\/#lat=-7.755829&amp;lon=110.3836378&amp;z=19&amp;l=0&amp;m=b\" target=\"_blank\">Lihat Peta<\/a>)<\/p>\n<p style=\"text-align: right;\">Jl. Pandega Satya No. 10 Jakal Km. 5,8 Jogjakarta<\/p>\n<p style=\"text-align: right;\">Kontak : Sandy Fauzan (+62 852 2469 1301)<\/p>\n<\/div>\n<p style=\"text-align: left;\">Pembicara :<\/p>\n<div id=\"attachment_23\" style=\"width: 170px\" class=\"wp-caption alignnone\"><img class=\"size-full wp-image-23 \" title=\"adzy\" src=\"http:\/\/www.malioboro.org\/wp-content\/uploads\/2010\/12\/adzy2-oke-150x150.jpg\" alt=\"\" width=\"160\" height=\"160\" \/><p class=\"wp-caption-text\">Aji Kisworo Mukti<\/p><\/div>\n<div id=\"attachment_24\" style=\"width: 170px\" class=\"wp-caption alignnone\"><img class=\"size-full wp-image-24 \" title=\"utian\" src=\"http:\/\/www.malioboro.org\/wp-content\/uploads\/2010\/11\/utian-oke-150x150.jpg\" alt=\"\" width=\"160\" height=\"160\" \/><p class=\"wp-caption-text\">Utian Ayuba<\/p><\/div>\n<div id=\"attachment_20\" style=\"width: 170px\" class=\"wp-caption alignnone\"><img class=\" wp-image-20  \" title=\"Sekar\" src=\"http:\/\/www.malioboro.org\/wp-content\/uploads\/2010\/12\/sekar_1-150x150.jpg\" alt=\"\" width=\"160\" height=\"160\" \/><p class=\"wp-caption-text\">Sekar Retno Naruki<\/p><\/div>\n<div id=\"attachment_21\" style=\"width: 170px\" class=\"wp-caption alignleft\"><img class=\"size-full wp-image-21 \" title=\"bambang\" src=\"http:\/\/www.malioboro.org\/wp-content\/uploads\/2010\/12\/bambang_p-150x150.jpg\" alt=\"\" width=\"160\" height=\"160\" \/><p class=\"wp-caption-text\">Bambang Purnomosidi<\/p><\/div>\n<p>&nbsp;<\/p>\n<p>&nbsp;<\/p>\n<p>&nbsp;<\/p>\n<p>&nbsp;<\/p>\n<p>&nbsp;<\/p>\n<p>&nbsp;<\/p>\n<p>&nbsp;<\/p>\n<p>Acara :<\/p>\n<p style=\"text-align: right;\">Pendaftaran <strong>18.30 &#8211; 19.00<\/strong><\/p>\n<p style=\"text-align: right;\">Pembukaan <strong>19.00 &#8211; 19.10<\/strong><\/p>\n<p style=\"text-align: right;\">Bambang Purnowosidi (<a href=\"http:\/\/twitter.com\/bpdp\">@bpdp<\/a>, Dosen Akakom, Senior KPLI Jogja) <strong>19.10 &#8211; 19.30<\/strong><\/p>\n<p style=\"text-align: right;\">Sekar Retno Naruki (<a href=\"http:\/\/twitter.com\/pandaalion\">@pandaalion<\/a>, FOSS Amikom, Pengguna Linux) <strong>19.30 &#8211; 19.50<\/strong><\/p>\n<p style=\"text-align: right;\">Ongkang\u00b2 dan Accoustic Live Music (Break) <strong>19.50 &#8211; 20.00<\/strong><\/p>\n<p style=\"text-align: right;\">Utian Ayuba (<a href=\"http:\/\/twitter.com\/utianayuba\">@utianayuba<\/a>, KPLI Bogor, Koordinator Humas Blankon Linux) <strong>20.00 &#8211; 20.20<\/strong><\/p>\n<p style=\"text-align: right;\">Aji Kisworo Mukti (<a href=\"http:\/\/twitter.com\/adzymaniac\">@adzymaniac<\/a>, KPLI Jogja, Pengembang BlankOn Linux) <strong>20.20 &#8211; 20.40<\/strong><\/p>\n<p style=\"text-align: right;\">Tanya Jawab <strong>20.40 &#8211; 21.20<\/strong><\/p>\n<p style=\"text-align: right;\">Penutupan <strong>21.20 &#8211; 21.30<\/strong><\/p>\n<div id=\"divClear\"><\/div>\n<hr \/>\n",
+         "excerpt":"<p>Jum&#8217;at, 10 Desember 2010 &#8211; 18.30 WIB Tempat : AngringQ Cafe (Lihat Peta) Jl. Pandega Satya No. 10 Jakal Km. 5,8 Jogjakarta Kontak : Sandy Fauzan (+62 852 2469 1301) Pembicara : &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Acara : Pendaftaran 18.30 &#8211; 19.00 Pembukaan 19.00 &#8211; 19.10 Bambang Purnowosidi (@bpdp, Dosen Akakom, Senior [&hellip;]<\/p>\n",
+         "date":"2010-11-28 09:31:26",
+         "modified":"2012-06-25 08:07:20",
+         "categories":[
+            {
+               "id":4,
+               "slug":"malioboro",
+               "title":"Malioboro",
+               "description":"",
+               "parent":0,
+               "post_count":10
+            }
+         ],
+         "tags":[
+
+         ],
+         "author":{
+            "id":1,
+            "slug":"jogjalinux",
+            "name":"Admin",
+            "first_name":"Admin",
+            "last_name":"Linux",
+            "nickname":"jogjalinux",
+            "url":"http:\/\/jogja.linux.or.id",
+            "description":"Kami adalah Komunitas Pengguna Linux Indonesia Yogyakarta"
+         },
+         "comments":[
+
+         ],
+         "attachments":[
+            {
+               "id":41,
+               "url":"http:\/\/www.malioboro.org\/wp-content\/uploads\/2012\/06\/KPLI-Jogja.png",
+               "slug":"kpli-jogja",
+               "title":"KPLI-Jogja",
+               "description":"",
+               "caption":"",
+               "parent":32,
+               "mime_type":"image\/png",
+               "images":{
+                  "full":{
+                     "url":"http:\/\/www.malioboro.org\/wp-content\/uploads\/2012\/06\/KPLI-Jogja.png",
+                     "width":500,
+                     "height":365
+                  },
+                  "thumbnail":{
+                     "url":"http:\/\/www.malioboro.org\/wp-content\/uploads\/2012\/06\/KPLI-Jogja-150x150.png",
+                     "width":150,
+                     "height":150
+                  },
+                  "medium":{
+                     "url":"http:\/\/www.malioboro.org\/wp-content\/uploads\/2012\/06\/KPLI-Jogja-300x219.png",
+                     "width":300,
+                     "height":219
+                  },
+                  "large":{
+                     "url":"http:\/\/www.malioboro.org\/wp-content\/uploads\/2012\/06\/KPLI-Jogja.png",
+                     "width":500,
+                     "height":365
+                  },
+                  "post-thumbnail":{
+                     "url":"http:\/\/www.malioboro.org\/wp-content\/uploads\/2012\/06\/KPLI-Jogja.png",
+                     "width":500,
+                     "height":365
+                  }
+               }
+            },
+            {
+               "id":40,
+               "url":"http:\/\/www.malioboro.org\/wp-content\/uploads\/2012\/06\/SaOS-Logo.png",
+               "slug":"saos-logo",
+               "title":"SaOS Logo",
+               "description":"",
+               "caption":"",
+               "parent":32,
+               "mime_type":"image\/png",
+               "images":{
+                  "full":{
+                     "url":"http:\/\/www.malioboro.org\/wp-content\/uploads\/2012\/06\/SaOS-Logo.png",
+                     "width":390,
+                     "height":169
+                  },
+                  "thumbnail":{
+                     "url":"http:\/\/www.malioboro.org\/wp-content\/uploads\/2012\/06\/SaOS-Logo-150x150.png",
+                     "width":150,
+                     "height":150
+                  },
+                  "medium":{
+                     "url":"http:\/\/www.malioboro.org\/wp-content\/uploads\/2012\/06\/SaOS-Logo-300x130.png",
+                     "width":300,
+                     "height":130
+                  },
+                  "large":{
+                     "url":"http:\/\/www.malioboro.org\/wp-content\/uploads\/2012\/06\/SaOS-Logo.png",
+                     "width":390,
+                     "height":169
+                  },
+                  "post-thumbnail":{
+                     "url":"http:\/\/www.malioboro.org\/wp-content\/uploads\/2012\/06\/SaOS-Logo.png",
+                     "width":390,
+                     "height":169
+                  }
+               }
+            }
+         ],
+         "comment_count":0,
+         "comment_status":"open",
+         "custom_fields":{
+
+         }
+      }
+   ]
+}]
